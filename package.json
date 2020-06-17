@@ -1,0 +1,27 @@
+{
+  "name": "BudgetTracker",
+  "version": "1.0.0",
+  "description": "Add functionality to our existing Budget Tracker application to allow for offline access and functionality.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hayleyrob/BudgetTracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hayleyrob/BudgetTracker/issues"
+  },
+  "homepage": "https://github.com/hayleyrob/BudgetTracker#readme",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.17.1",
+    "lite-server": "^2.5.4",
+    "mongoose": "^5.9.19",
+    "morgan": "^1.10.0"
+  }
+}
