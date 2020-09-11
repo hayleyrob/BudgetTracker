@@ -1,7 +1,4 @@
 
-# Created by https://www.toptal.com/developers/gitignore/api/dotenv,node,visualstudio
-# Edit at https://www.toptal.com/developers/gitignore?templates=dotenv,node,visualstudio
-
 ### dotenv ###
 .env
 
